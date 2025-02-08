@@ -51,7 +51,7 @@ function sonificate(breedingCategory) {
             playAudio(0.2);
             break;
         case 3:
-            playAudio(0.8);
+            playAudio(0.85);
             break;
         case 4:
             playAudio(1);
